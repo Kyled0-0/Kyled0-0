@@ -1,4 +1,4 @@
-# Hi, I'm Kyle (Trung Kien Do) — [@Kyled0-0](https://github.com/Kyled0-0)
+# Hi, I'm Kyle (Trung Kien Do) - [@Kyled0-0](https://github.com/Kyled0-0)
 
 👀 **Interests:** Backend engineering, cloud-native architecture, and the messy middle layer where APIs, data, and infrastructure meet. I like systems that have to hold up under real traffic, not just demos. Recently that's meant Kubernetes manifests, Prisma schemas, and squeezing latency out of distributed workloads.
 
@@ -12,8 +12,8 @@
 - **Other:** Python (Pandas, Matplotlib), C++ with OpenMP/MPI/OpenCL, Monkey C for Garmin
 
 🚀 **What I'm Building:**
-- **FeastBox** — A full-stack meal-kit platform I use as a personal sandbox for load testing and traffic experimentation. Vue + Pinia frontend, Express/Prisma/PostgreSQL backend, deployed to Kubernetes with an HPA scaling 2 to 5 replicas at a 60% CPU threshold.
-- **RedBack Ops (Garmin)** — Sub-lead backend dev on a 4-person team building a biomechanics-driven cadence app. Shipped a research-backed Ideal Cadence Calculator and a low-pass filter on Garmin sensor data, validated on FR165 and Vivoactive hardware.
+- **FeastBox** - A full-stack meal-kit platform I use as a personal sandbox for load testing and traffic experimentation. Vue + Pinia frontend, Express/Prisma/PostgreSQL backend, deployed to Kubernetes with an HPA scaling 2 to 5 replicas at a 60% CPU threshold.
+- **RedBack Ops (Garmin)** - Sub-lead backend dev on a 4-person team building a biomechanics-driven cadence app. Shipped a research-backed Ideal Cadence Calculator and a low-pass filter on Garmin sensor data, validated on FR165 and Vivoactive hardware.
 
 💞️ **Looking to Collaborate On:** Backend services, cloud infra, and full-stack projects where the architecture decisions actually matter. Open-source contributions, side projects, or anything that makes me think harder about scale, security, or developer experience.
 
