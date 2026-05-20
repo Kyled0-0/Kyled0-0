@@ -24,6 +24,4 @@
 - LinkedIn: [Trung Kien Do](https://www.linkedin.com/in/trungkiend0307)
 - GitHub: [@Kyled0-0](https://github.com/Kyled0-0)
 
-😄 **Pronouns:** He/Him
-
 ⚡ **Fun Fact:** Currently building an automation testing tool with Claude as a co-pilot, partly to ship something useful, partly to stress-test how far AI agents can go when you give them proper context loading, solid coding conventions, and the right tools. Outside of code I game, lift, fumble through guitar chords, and find any excuse to meet new people.
