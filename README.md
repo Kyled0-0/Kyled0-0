@@ -2,7 +2,7 @@
 
 👀 **Interests:** Backend engineering, cloud-native architecture, and the messy middle layer where APIs, data, and infrastructure meet. I like systems that have to hold up under real traffic, not just demos. Recently that's meant Kubernetes manifests, Prisma schemas, and squeezing latency out of distributed workloads.
 
-🎓 **Currently Studying:** Final-year Bachelor of Information Technology at Deakin University, majoring in Cloud Application Development (WAM 82, GPA 3.6). Current units are pulling me into secure backend services (SIT331), cloud automation (SIT226), and cloud-native app development (SIT323). 
+🎓 **Acedemics** Bachelor of Information Technology at Deakin University, majoring in Cloud Application Development (WAM 82, GPA 3.6). Current units are pulling me into secure backend services (SIT331), cloud automation (SIT226), and cloud-native app development (SIT323). 
 
 🛠️ **Stack I Actually Use:**
 - **Backend:** C#/.NET, Node.js + Express, ASP.NET Web API
