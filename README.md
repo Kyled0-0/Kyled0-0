@@ -14,8 +14,3 @@
 💞️ **Looking to Collaborate On:** Backend services, cloud infra, and full-stack projects. Open-source contributions, side projects, or anything that makes me think harder about scale, security, or developer experience.
 
 🌏 **Languages:** English (IELTS 7.5), Vietnamese (native), Mandarin and Cantonese (conversational).
-
-📫 **How to Reach Me:**
-- Email: [trungkiendo18@gmail.com](mailto:trungkiendo18@gmail.com)
-- LinkedIn: [Trung Kien Do](https://www.linkedin.com/in/trungkiend0307)
-- GitHub: [@Kyled0-0](https://github.com/Kyled0-0)
